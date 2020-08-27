@@ -1,0 +1,25 @@
+[debug] [2020-08-27T04:39:23.749Z] ----------------------------------------------------------------------
+[debug] [2020-08-27T04:39:23.751Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2020-08-27T04:39:23.751Z] CLI Version:   8.9.2
+[debug] [2020-08-27T04:39:23.751Z] Platform:      darwin
+[debug] [2020-08-27T04:39:23.751Z] Node Version:  v12.18.0
+[debug] [2020-08-27T04:39:23.759Z] Time:          Thu Aug 27 2020 13:39:23 GMT+0900 (Japan Standard Time)
+[debug] [2020-08-27T04:39:23.759Z] ----------------------------------------------------------------------
+[debug] [2020-08-27T04:39:23.759Z] 
+[debug] [2020-08-27T04:39:23.768Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-08-27T04:39:23.768Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/qitengzhanye/Library/Mobile Documents/com~apple~CloudDocs/my-web-projects/main-input/(Clever Programmer) Profit With JavaScript
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+

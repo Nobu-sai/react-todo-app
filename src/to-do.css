@@ -1,9 +1,33 @@
 
 .todo {
-  margin-top: 20px;
-  border: 1px solid black;
-  padding: 12px;
-  width: 50%;
+  /* margin-top: 20px; */
+  /* border: 1px solid black; */
+  padding: 10px 20px;
+  width: 100%;
+  /* flex-grow: 1; */
+  min-height: 100px;
 
   text-align: center;
+
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+  align-items: center;
+
+  transition: all .4s ease;
+  overflow: scroll;
+}
+
+.todo:hover{
+  /* border: 1px solid black; */
+  box-shadow: 0 0 10px 10px hsl(0, 0%, 51%);
+}
+
+.todo-contents {
+  flex-grow: 2;
+  transition: all .4s ease;
+}
+
+.todo-contents:hover {
+  /* box-shadow: 0 0 10px 10px hsl(0, 0%, 51%); */
 }
